@@ -11,10 +11,23 @@ Estou em busca de novas oportunidades para aplicar meus conhecimentos e habilida
 
 ## Soft Skills
 
-<img align="center" alt="Uriel-Swift" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-<img align="center" alt="Uriel-Swift" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img  align="center" alt="Uriel-Swift" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<img align="center" alt="Uriel-Swift" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+<ul>
+<li> Comunicação </li>
+<li> Gestão de tempo </li>
+<li> Soluções de problemas </li>
+<li> Flexibilidade e Adaptabilidade </li>
+<li> Lidar com pressão </li>
+<li> Trabalho em equipe </li>
+<li> Suportar críticas </li>
+<li> Atitude positiva </li>
+<li> Colaboração </li>
+<li> Liderança </li>
+</ul>
+
+## Hard Skills
+
+<img align="center" alt="Uriel-Swift" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img align="center" alt="Uriel-Swift" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img  align="center" alt="Uriel-Swift" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img align="center" alt="Uriel-Swift" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
 
 ## Aprendendo
