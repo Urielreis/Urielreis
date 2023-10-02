@@ -7,7 +7,7 @@ Estou em busca de novas oportunidades para aplicar meus conhecimentos e habilida
 
 ## Experiência Profissional
 
-Desenvolvedor iOS, exercendo modificações e teste do sistema. Execução da manutenção do sistema, fazendo eventuais correções necessárias, visando atender às necessidades do cliente, utilizando Swift, XIB, ViewCode, SwiftUI, Acessibilidade, Scrum, Kanban, Github, Orientação a Objetos, Storyboard, CoreData e SOLID.
+<img align="center" alt="Uriel-Swift" heigth="10" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> Desenvolvedor iOS, exercendo modificações e teste do sistema. Execução da manutenção do sistema, fazendo eventuais correções necessárias, visando atender às necessidades do cliente, utilizando Swift, XIB, ViewCode, SwiftUI, Acessibilidade, Scrum, Kanban, Github, Orientação a Objetos, Storyboard, CoreData e SOLID.
 
 ## Soft Skills
 
