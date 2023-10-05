@@ -1,4 +1,4 @@
-## Olá, sou Uriel, desenvolvedor iOS e frontend
+## Olá, sou Uriel desenvolvedor iOS e frontend.
 
 Estou em busca de novas oportunidades para aplicar meus conhecimentos e habilidades para desenvolver soluções inovadoras e funcionais. Com formação em Análise e Desenvolvimento de Sistemas, e experiência na área de tecnologia, como desenvolvedor iOS, estou sempre em busca de aprender mais e me aprimorar profissionalmente.
 
