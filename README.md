@@ -7,7 +7,8 @@ Estou em busca de novas oportunidades para aplicar meus conhecimentos e habilida
 
 ## Experiência Profissional
 
-<img align="center" alt="Uriel-Swift" heigth="10" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> Desenvolvedor iOS, exercendo modificações e teste do sistema. Execução da manutenção do sistema, fazendo eventuais correções necessárias, visando atender às necessidades do cliente, utilizando Swift, XIB, ViewCode, SwiftUI, Acessibilidade, Scrum, Kanban, Github, Orientação a Objetos, Storyboard, CoreData e SOLID.
+<img align="center" alt="Uriel-Swift" heigth="10" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> Na atuação fui responsável pelo desenvolvimento e aprimoramento de aplicativos iOS. Escrevendo código com arquiteturas MVVM e MVC de forma que seja eficiente, seguindo as melhores práticas de desenvolvimento como o código mais limpo. Trabalho em equipe, colaborando com outros desenvolvedores, como designers e especialistas em UX/UI. Resolvia problemas técnicos usando XCtest, depurando erros e otimizando o desempenho do aplicativo.
+Hard Skill utilizadas para o desenvolvimento são: Storyboard, XIB, ViewCode, SwiftUI, Acessibilidade, Scrum, Kanban, Github, Orientação a Objetos, Framewoks, Cocoapods, CoreData e SOLID.
 
 ## Soft Skills
 
@@ -15,13 +16,15 @@ Estou em busca de novas oportunidades para aplicar meus conhecimentos e habilida
 <li> Comunicação </li>
 <li> Gestão de tempo </li>
 <li> Soluções de problemas </li>
-<li> Flexibilidade e Adaptabilidade </li>
+<li> Flexibilidade </li>
+<li> Adaptabilidade </li>
+<li> Resiliência </li>
 <li> Lidar com pressão </li>
-<li> Trabalho em equipe </li>
 <li> Suportar críticas </li>
 <li> Atitude positiva </li>
-<li> Colaboração </li>
+<li> Colaboração em equipe </li>
 <li> Liderança </li>
+<li> Proatividade </li>
 </ul>
 
 ## Hard Skills
