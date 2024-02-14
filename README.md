@@ -1,9 +1,7 @@
 ## Olá, sou Uriel desenvolvedor Fontend iOS.
 
-Sou desenvolvedor Frontend iOS e tenho experiência com a linguagem Swift, XIB, Storyboard, ViewCode, SwiftUI e Framewoks. 
-
-Formado em Análise e Desenvolvimento de Sistemas, e estou cursando Apple Developer Academy. Além disso, tenho experiência em metodologias ágeis, como Scrum e Kanban.
-
+Tenho experiência com a linguagem Swift, XIB, Storyboard, ViewCode, SwiftUI e Framewoks.
+Sou formado em Análise e Desenvolvimento de Sistemas, e estou cursando Apple Developer Academy. Além disso, tenho experiência em metodologias ágeis, como Scrum e Kanban.
 Quando o assunto é tecnologia, meus olhos chegam a brilhar e com isso busco sempre aprimorar os meus conhecimentos em minhas Hard Skills para o meu melhor desempenho naquilo que mais amo fazer.
 
 ![Uriel Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=urielreis&show_icons=true&theme=dark)
