@@ -1,83 +1,40 @@
-# Olá, sou Uriel Reis 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uriel Reis
+==================================================================================================================================
 
-Profissional com vivências diversificadas, incluindo atuação como Desenvolvedor iOS com
-experiencia, onde exerci modificações e testes do sistema, além de manutenção e
-correções necessárias utilizando Swift, XIB, ViewCode, Storyboard, SwiftUI. Atualmente trabalho
-como Desenvolvedor FullStack. Possuo Graduação em Análise e Desenvolvimento de
-Sistema pela Faculdade Cruzeiro do Sul e estou cursando uma Especialização na Apple
-Developer Academy na Faculdade Metodista, junto com o Desenvolvimento iOS no Instituto Federal do Ceará
-Tenho diversas certificações em iOS por instituições renomadas como Alura, Udemy,
-Dio.me e Hacking with Swift. Além disso, possuo formação em Acessibilidade, Git e
-Github, Liderança, Scrum Master e Kanban pela Alura. Minhas formações e experiência me
-proporcionaram uma sólida compreensão de conceitos de desenvolvimento iOS, liderança
-de equipes, gestão ágil de projetos e acessibilidade web.
+iOS Developer || Web || Mobile
+------------------------------
 
-## 💻 Sobre Mim
+Sou um desenvolvedor iOS apaixonado por criar soluções que realmente impactam a vida das pessoas. Com experiência sólida em Swift e SwiftUI, trabalhei em diversos projetos pessoais que refletem meu comprometimento e criatividade. Minha jornada na programação me permitiu aplicar uma variedade de tecnologias, incluindo Swift, SwiftUI, JavaScript, React Native e Flutter. Também aprofundei meu conhecimento em metodologias ágeis, como Scrum e Kanban, que considero essenciais para a entrega de projetos de alta qualidade. Sou entusiasta da acessibilidade na web e estou sempre em busca de maneiras para aprimorar minhas habilidades. Além da programação, tenho um forte interesse em liderança de equipe e gestão de projetos, onde posso aplicar minhas habilidades de comunicação e colaboração para alcançar resultados excepcionais.
 
-- **Formação**: Graduado em Análise e Desenvolvimento de Sistemas.
-- **Atualização**: Cursando a Apple Developer Academy e Instituto Federal do Ceará.
-- **Experiência em**: Swift, SwiftUI, XIB, Storyboard, ViewCode e frameworks.
-- **Metodologias Ágeis**: Familiarizado com Scrum e Kanban.
+* 🌍  I'm based in São Paulo - Brasil
+* 🖥️  See my portfolio at [Meu Portfólio](http://urielmarendazreis.com.br)
+* 🧠  I'm learning Python, JavaScript, TypeScript React, Vue.js, MySQL, Docker e Node.js.
+* 🤝  I'm open to collaborating on Sempre disponível
+* ⚡  Atuo como motorista por aplicativo como complemento de renda
 
-Quando o assunto é tecnologia, meus olhos brilham! Estou constantemente buscando aprender e crescer nas minhas hard skills para me destacar no que mais amo fazer.
+### Skills
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=urielreis&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=urielreis&layout=compact&lang_count=16&theme=dark)
 
-## 🚀 Experiência Profissional
-
-Na minha trajetória, fui responsável pelo desenvolvimento e aprimoramento de aplicativos iOS, utilizando arquiteturas **MVVM** e **MVC** para garantir eficiência e qualidade. Colaborei com equipes multidisciplinares, incluindo designers e especialistas em UX/UI, para resolver problemas técnicos e otimizar o desempenho dos aplicativos.
-
-### Tecnologias e Ferramentas:
-- **Hard Skills**: Storyboard, XIB, ViewCode, SwiftUI, Acessibilidade, Scrum, Kanban, GitHub, Orientação a Objetos, Frameworks, CocoaPods, Core Data e princípios SOLID.
-
-## 🌟 Soft Skills
-
-- Comunicação
-- Gestão de Tempo
-- Resolução de Problemas
-- Flexibilidade
-- Adaptabilidade
-- Resiliência
-- Lidar com Pressão
-- Suportar Críticas
-- Atitude Positiva
-- Colaboração em Equipe
-- Liderança
-- Proatividade
-
-## ⚙️ Hard Skills
-
-<p>
-  <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
-## 📚 Aprendendo
 
-<p>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-</p>
+### Socials
 
-## 🎓 Cursos e Projetos
+<p align="left"> <a href="https://www.github.com/Urielreis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/urielmarendaz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/urielreis/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-Aqui estão alguns dos cursos que já completei:
+### Badges
 
-- [Formação iOS - Entry Point](https://www.linkedin.com/feed/update/urn:li:activity:6919706786325258240/)
-- [Projeto Pokedex](https://www.linkedin.com/feed/update/urn:li:activity:6919952847350448128/)
-- [Desenvolvendo para iOS](https://www.linkedin.com/feed/update/urn:li:activity:6948333526626799616/)
-- [Auto Layout com Constraints](https://www.linkedin.com/feed/update/urn:li:activity:6949710985662234624/)
-- [100 Days of Swift](https://www.linkedin.com/feed/update/urn:li:activity:6981692450041917440/)
-- [E muito mais...](https://www.linkedin.com/in/urielreis/)
+<b>My GitHub Stats</b>
 
-## 📞 Contato
+<a href="http://www.github.com/Urielreis"><img src="https://github-readme-stats.vercel.app/api?username=Urielreis&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=10b981&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Urielreis's GitHub stats" /></a>
 
-Vamos nos conectar! Estou aberto a novas oportunidades e colaborações.
+<a href="http://www.github.com/Urielreis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Urielreis&stroke=10b981&background=1c1917&ring=f97316&fire=f97316&currStreakNum=10b981&currStreakLabel=f97316&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+
+<a href="http://www.github.com/Urielreis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Urielreis&bg_color=1c1917&color=10b981&line=ffffff&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Urielreis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urielreis&langs_count=10&title_color=f97316&text_color=10b981&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511952017295)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urielreis/)
